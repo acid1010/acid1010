@@ -35,23 +35,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acid1010&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 🌟 Featured Projects
-
-### 🚀 [DeFi Protocol](https://github.com/YOUR_USERNAME/defi-protocol)
-Decentralized yield farming protocol with AMM features
-- **Tech:** Solidity, React, Web3.js
-- **Features:** Yield farming, Liquidity mining, Security audited
-
-### 🎨 [NFT Marketplace](https://github.com/YOUR_USERNAME/nft-marketplace)
-Multi-chain NFT marketplace supporting multiple networks
-- **Tech:** Solidity, Next.js, Ethers.js
-- **Features:** Cross-chain, Low fees, Royalty system
-
-### 🏛️ [DAO Platform](https://github.com/YOUR_USERNAME/dao-platform)
-Comprehensive governance platform with voting mechanisms
-- **Tech:** Solidity, TypeScript, OpenZeppelin
-- **Features:** Gasless voting, Treasury management
-
 ## 🎯 Current Goals
 - [ ] Deploy multi-chain DeFi protocol
 - [ ] Contribute to Web3 open source projects
@@ -62,10 +45,7 @@ Comprehensive governance platform with voting mechanisms
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://YOUR_PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xRasyid)
 
 **ENS:** `acidjp.eth`
 
@@ -74,7 +54,7 @@ Comprehensive governance platform with voting mechanisms
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=acid1010E&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
