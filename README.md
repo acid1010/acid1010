@@ -10,7 +10,6 @@
 - 🔭 Currently working on **Web3 DApps** and **Smart Contracts**
 - 🌱 Learning **advanced Solidity** and **Cross-chain development**
 - 💬 Ask me about **Blockchain, DeFi, NFTs, and Smart Contracts**
-- 📫 Reach me: **[your-email@example.com]**
 - ⚡ Fun fact: **Building the decentralized future! 🔗**
 
 ## 🛠️ Tech Stack
@@ -32,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acid1010&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acid1010&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🌟 Featured Projects
@@ -68,7 +67,7 @@ Comprehensive governance platform with voting mechanisms
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://YOUR_PORTFOLIO.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-**ENS:** `yourname.eth`
+**ENS:** `acidjp.eth`
 
 </div>
 
